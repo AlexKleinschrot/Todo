@@ -1,0 +1,8 @@
+hsrm\test\todolist\TodoApplication$1.class
+hsrm\test\todolist\TodoItemNotFoundAdvice.class
+hsrm\test\todolist\TodoController.class
+hsrm\test\todolist\TodoRepository.class
+hsrm\test\todolist\TodoItem.class
+hsrm\test\todolist\TodoApplication.class
+hsrm\test\todolist\TodoItemNotFoundException.class
+hsrm\test\todolist\LoadDatabase.class
